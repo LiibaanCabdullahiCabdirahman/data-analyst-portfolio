@@ -1,0 +1,11 @@
+Order_ID,Customer_ID,Product,Category,Unit_Price,Quantity,Order_Date,Total_Sales
+5001,1001,Laptop Stand,Office,45,3,2026-02-01,135
+5002,1002,Wireless Mouse,Accessories,18,8,2026-02-03,144
+5003,1003,Keyboard,Accessories,25,6,2026-02-05,150
+5004,1004,Monitor,Electronics,160,2,2026-02-08,320
+5005,1005,USB Hub,Accessories,22,10,2026-02-10,220
+5006,1006,Laptop Stand,Office,45,5,2026-02-14,225
+5007,1001,Monitor,Electronics,160,1,2026-02-18,160
+5008,1003,Keyboard,Accessories,25,9,2026-02-20,225
+5009,1005,Wireless Mouse,Accessories,18,12,2026-02-23,216
+5010,1002,USB Hub,Accessories,22,7,2026-02-25,154
